@@ -1,0 +1,33 @@
+{
+  "name": "printkk",
+  "version": "1.0.0",
+  "description": "Agent skill for PrintKK print-on-demand platform — design creation, image management, order processing, and product catalog via API.",
+  "category": "ecommerce",
+  "tags": [
+    "print-on-demand",
+    "ecommerce",
+    "pod",
+    "custom-products",
+    "dropshipping",
+    "order-management",
+    "design",
+    "api-integration"
+  ],
+  "author": "PrintKK",
+  "homepage": "https://www.printkk.com/",
+  "api_docs": "https://api-docs.printkk.com/",
+  "skills": [
+    {
+      "name": "printkk",
+      "path": "printkk/SKILL.md"
+    }
+  ],
+  "compatible_agents": [
+    "claude-code",
+    "openai-codex",
+    "cursor",
+    "github-copilot",
+    "windsurf",
+    "gemini-cli"
+  ]
+}
