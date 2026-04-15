@@ -1,5 +1,5 @@
 ---
-name: printkk
+name: printkk-print-on-demand
 description: >
   Domain knowledge for using PrintKK print-on-demand API tools effectively.
   PrintKK is a print-on-demand platform that lets sellers create custom products,
